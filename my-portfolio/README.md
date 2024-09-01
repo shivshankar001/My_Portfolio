@@ -6,7 +6,7 @@
 
 Implemented my own Portfolio as Website, Where I have added all my projects and experiences. I have hosted it with the help of github gh-pages. I keep on making changes accordingly to keep it up-to-date.</b>
 
-![3D Portfolio]()
+![3D Portfolio](https://github.com/shivshankar001/My_Portfolio/blob/main/my-portfolio/Images/Screenshot%202024-09-02%20041043.png)
 
 ## View Live Demo
 <pre><center><a href=""><b></b></a></center></pre>
@@ -108,10 +108,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ## [SnapShots in Laptop View](https://shinchancode.github.io/3d-react-portfolio/)
 
-![3D Portfolio Laptop]()
+![3D Portfolio Laptop](https://github.com/shivshankar001/My_Portfolio/blob/main/my-portfolio/Images/Screenshot%202024-09-02%20041134.png)
 
-![3D Portfolio Laptop](https://github.com/shinchancode/3d-react-portfolio/blob/main/Images/2.png)
+![3D Portfolio Laptop](https://github.com/shivshankar001/My_Portfolio/blob/main/my-portfolio/Images/Screenshot%202024-09-02%20041201.png)
 
+![3D Portfolio Laptop](https://github.com/shivshankar001/My_Portfolio/blob/main/my-portfolio/Images/Screenshot%202024-09-02%20041217.png)
+
+![3D Portfolio Laptop](https://github.com/shivshankar001/My_Portfolio/blob/main/my-portfolio/Images/Screenshot%202024-09-02%20041234.png)
 
 <hr>
 
