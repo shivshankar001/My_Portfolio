@@ -466,7 +466,7 @@ import {
       branch : "Science",
       marks:
         "Percentage : 93.4 %",
-      name: "Kendriya Vidyalaya RHE Khadki Katihar",
+      name: "Scottish Public School Katihar",
       year: "2021",
       image: school,
     },
@@ -476,7 +476,7 @@ import {
       branch: "SSC",
       marks:
         "Percentage : 94.4 %",
-      name: "Kendriya Vidyalaya RHE Khadki Katihar",
+      name: "Scottish Public School Katihar",
       year: "2019",
       image: school,
     },
